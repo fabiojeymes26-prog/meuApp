@@ -1,0 +1,1 @@
+[[{"Pattern":"scheme === \u0027unspecified\u0027 \\? \u0027light\u0027 : scheme","Replacement":"scheme === \u0027dark\u0027 ? \u0027dark\u0027 : \u0027light\u0027"}]]
